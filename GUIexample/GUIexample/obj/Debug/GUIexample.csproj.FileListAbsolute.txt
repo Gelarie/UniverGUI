@@ -1,0 +1,8 @@
+c:\users\прпр\documents\visual studio 2015\Projects\GUIexample\GUIexample\bin\Debug\GUIexample.exe.config
+C:\Users\прпр\documents\visual studio 2015\Projects\GUIexample\GUIexample\bin\Debug\GUIexample.exe
+C:\Users\прпр\documents\visual studio 2015\Projects\GUIexample\GUIexample\bin\Debug\GUIexample.pdb
+C:\Users\прпр\documents\visual studio 2015\Projects\GUIexample\GUIexample\obj\Debug\GUIexample.csprojResolveAssemblyReference.cache
+C:\Users\прпр\documents\visual studio 2015\Projects\GUIexample\GUIexample\obj\Debug\GUIexample.Properties.Resources.resources
+C:\Users\прпр\documents\visual studio 2015\Projects\GUIexample\GUIexample\obj\Debug\GUIexample.csproj.GenerateResource.Cache
+C:\Users\прпр\documents\visual studio 2015\Projects\GUIexample\GUIexample\obj\Debug\GUIexample.exe
+C:\Users\прпр\documents\visual studio 2015\Projects\GUIexample\GUIexample\obj\Debug\GUIexample.pdb
